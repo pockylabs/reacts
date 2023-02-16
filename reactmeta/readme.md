@@ -20,7 +20,7 @@ Stand alone parts of a UI
 
 ### Functional Components
 ```
-function welcome() {
+function Welcome() {
     return <h1>"Hello"</h1>
 };
 ```
